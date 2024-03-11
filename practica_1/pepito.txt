@@ -1,0 +1,11 @@
+Número: 1|| Apellido: Silva|| Nombre: Facundo|| Edad: 99|| DNI: 1 
+Número: 2|| Apellido: Jose|| Nombre: Sancho|| Edad: 999|| DNI: 2 
+Número: 3|| Apellido: Silva|| Nombre: Pepe|| Edad: 45|| DNI: 200 
+Número: 4|| Apellido: A|| Nombre: A|| Edad: 599|| DNI: A 
+Número: 1|| Apellido: Silvia|| Nombre: Facundo|| Edad: 99|| DNI: 00 
+Número: 3|| Apellido: Silva|| Nombre: Perez|| Edad: 9|| DNI: 00 
+Número: 1|| Apellido: Silva|| Nombre: Facundo|| Edad: 99|| DNI: 45200925 
+Número: 1|| Apellido: a|| Nombre: a|| Edad: 1|| DNI: a 
+Número: 2|| Apellido: b|| Nombre: b|| Edad: 999|| DNI: b 
+Número: 10|| Apellido: d|| Nombre: d|| Edad: 4|| DNI: d 
+Número: 5|| Apellido: e|| Nombre: e|| Edad: 5|| DNI: e 
